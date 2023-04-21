@@ -1,0 +1,9 @@
+api_id:
+api_hash:
+
+###################################################
+-get your api from "https://my.telegram.org/"
+-add them after ":" 
+-save this file
+-enjoy!
+###################################################
